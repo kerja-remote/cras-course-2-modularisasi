@@ -1,6 +1,7 @@
 """
 program menghitung luas segitiga
 luas segitiga = alas * tinggi / 2
+
 """
 print('\nmenghitung luas segitiga 1')
 alas = 10
